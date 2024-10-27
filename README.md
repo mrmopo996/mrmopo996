@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mrmopo996
-- 🌱 I’m currently about to start uni
-- 💞️ I’m looking to do cool solo projects and further my understnading of CS
+- 🌱 I'm in my first year of university
+- 💞️ I’m looking to do cool solo projects and further my understanding of CS
 - 📫 How to reach me, mrmopo996@gmail.com
